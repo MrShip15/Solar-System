@@ -11,7 +11,7 @@ extern "C" __declspec(dllexport) DWORD AmdPowerXpressRequestHighPerformance = 0x
 
 int main(int argc, char *argv[])
 {
-    QTest::qExec(new test_Planet, argc, argv);
+    //QTest::qExec(new test_Planet, argc, argv);
     QApplication a(argc, argv);
     Widget w;
     w.show();
