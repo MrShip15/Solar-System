@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Textures/earth.jpg</file>
+        <file>Textures/jupiter.jpg</file>
+        <file>Textures/mars.jpg</file>
+        <file>Textures/mercury.jpg</file>
+        <file>Textures/moon.jpg</file>
+        <file>Textures/neptune.jpg</file>
+        <file>Textures/pluto.jpg</file>
+        <file>Textures/saturn.jpg</file>
+        <file>Textures/sun.jpg</file>
+        <file>Textures/uranus.jpg</file>
+        <file>Textures/vernus.jpg</file>
+    </qresource>
+</RCC>

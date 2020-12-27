@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Models/Plane.dae</file>
+        <file>Models/Sphere.dae</file>
+    </qresource>
+</RCC>

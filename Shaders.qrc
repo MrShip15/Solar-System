@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/textured_shadeless.frag</file>
+        <file>Shaders/textured_shadeless.vert</file>
+        <file>Shaders/textured_shader.frag</file>
+        <file>Shaders/textured_shader.vert</file>
+    </qresource>
+</RCC>
