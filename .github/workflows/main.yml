@@ -33,7 +33,7 @@ jobs:
         uses: jurplel/install-qt-action@v2
         
       - name: Instal opengl
-        run: sudo apt-get install -lGL
+        run: sudo apt-get -y install freeglut3-dev
         
       - name: Start project
         run: qmake -project
