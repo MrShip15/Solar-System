@@ -1,7 +1,7 @@
 QT       += core gui xml
 QT       += testlib core gui
 
-LIBS += -lopengl32
+win32: LIBS += -lopengl32
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
